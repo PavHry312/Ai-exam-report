@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiExProject", "AiExProject\AiExProject.csproj", "{C323E8CA-C0A0-4D12-9DE6-DFB3A28B3380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C323E8CA-C0A0-4D12-9DE6-DFB3A28B3380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C323E8CA-C0A0-4D12-9DE6-DFB3A28B3380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C323E8CA-C0A0-4D12-9DE6-DFB3A28B3380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C323E8CA-C0A0-4D12-9DE6-DFB3A28B3380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7A82E2-6716-44B1-9FDF-F2CB67480372}
+	EndGlobalSection
+EndGlobal

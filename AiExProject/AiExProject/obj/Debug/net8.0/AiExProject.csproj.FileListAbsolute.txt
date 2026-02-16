@@ -1,0 +1,17 @@
+C:\Users\Asus\Pictures\AiExProject\AiExProject\bin\Debug\net8.0\AiExProject.exe
+C:\Users\Asus\Pictures\AiExProject\AiExProject\bin\Debug\net8.0\AiExProject.deps.json
+C:\Users\Asus\Pictures\AiExProject\AiExProject\bin\Debug\net8.0\AiExProject.runtimeconfig.json
+C:\Users\Asus\Pictures\AiExProject\AiExProject\bin\Debug\net8.0\AiExProject.dll
+C:\Users\Asus\Pictures\AiExProject\AiExProject\bin\Debug\net8.0\AiExProject.pdb
+C:\Users\Asus\Pictures\AiExProject\AiExProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.AssemblyInfo.cs
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProj.F8972B7C.Up2Date
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.dll
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\refint\AiExProject.dll
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.pdb
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\AiExProject.genruntimeconfig.cache
+C:\Users\Asus\Pictures\AiExProject\AiExProject\obj\Debug\net8.0\ref\AiExProject.dll
