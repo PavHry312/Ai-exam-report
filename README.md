@@ -24,7 +24,10 @@ Aby uruchomić projekt lokalnie, należy:
 2. Pobrać model Phi-3 komendą: `ollama pull phi3:mini`.
 3. Otworzyć plik `.sln` w środowisku Visual Studio 2022.
 4. Przywrócić pakiety NuGet (`Newtonsoft.Json`).
-5. Uruchomić aplikację.
+5. Kroki instalacji:W górnym menu środowiska Visual Studio wybierz:
+6.  Tools $\rightarrow$ NuGet Package Manager $\rightarrow$ Package Manager Console.
+7.  W otwartym oknie konsoli wprowadź następującą komendę:Install-Package Newtonsoft.Json
+8. Uruchomić aplikację.
 
 ## 📚 Wykorzystane technologie
 * **Język:** C# 12 / .NET 8.0
